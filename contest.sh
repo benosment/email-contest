@@ -7,4 +7,4 @@ export CONTEST_SUBJECT=''
 export CONTEST_RECIP=''
 export CONTEST_BODY=''
 
-./contest.py
+`dirname $0`/contest.py
